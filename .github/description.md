@@ -1,0 +1,1 @@
+"Karibu - Projet académique de développement mobile (cours Dev Mobile) - Application permettant de consulter une liste de pays, avec un focus sur les pays africains. Interface avec accueil, recherche et affichage des drapeaux et informations géographiques."
