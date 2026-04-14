@@ -2,7 +2,6 @@
 
 ## Pays App
 
-Welcome to the Pays App project! This application is designed to simplify the payment process for users, providing an intuitive interface and seamless experience.
 
 ### Screenshots of the App Interface
 
